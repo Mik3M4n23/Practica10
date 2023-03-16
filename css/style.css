@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+article {
+  background-color: rgba(199, 247, 247, 1);
+}
+
+nav {
+  background-color: rgba(56, 55, 55, 1);
+}
